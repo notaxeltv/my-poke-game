@@ -1,13 +1,11 @@
 #include "global.h"
 #include "pokemon.h"
-#include "party_menu.h"
 #include "constants/species.h"
 #include "constants/moves.h"
 #include "constants/abilities.h"
 #include "constants/pokemon.h"
 #include "constants/anime_flags.h"
 #include "event_data.h"
-#include "random.h"
 
 /*
  * AssignAnimeStarterPikachu
